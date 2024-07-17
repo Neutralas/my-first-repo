@@ -1,1 +1,1 @@
-different message
+message
